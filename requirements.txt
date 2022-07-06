@@ -75,7 +75,7 @@ jupyter-nbextensions-configurator==0.2.8
 Keras==2.0.8
 langdetect==1.0.7
 locket==0.2.0
-lxml==4.1.1
+lxml==4.9.1
 Markdown==2.6.9
 MarkupSafe==1.0
 matplotlib==2.1.0
